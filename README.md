@@ -1,1 +1,1 @@
-# Recipe_Rating_Prediction
+This repository contains the implementation of a machine learning pipeline designed to predict recipe ratings based on user review text. The project compares various models and hyperparameter tuning techniques to achieve the best performance.
